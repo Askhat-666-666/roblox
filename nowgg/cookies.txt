@@ -1,1 +1,5 @@
-
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+doctoraux.com	TRUE	/	FALSE	1999999999	ng_evar	29a
+doctoraux.com	TRUE	/	FALSE	1999999999	ng_evar_v2	%7B%22Exp_29AB_US%22%3A%2229a%22%7D
+doctoraux.com	TRUE	/	FALSE	1999999999	SameSite	Lax
